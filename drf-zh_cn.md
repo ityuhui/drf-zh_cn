@@ -286,7 +286,7 @@ Hadoop目前提供了两个公平调度器【1，2，34】.二者都在slot粒�
 
 ## 10 致谢
 
-感谢 Eric J. Friedman, Herve Moulin, John Wilkes，以及匿名评搞人的珍贵的反馈。感谢 Facebook 完成了算法在环境里的追踪。本研究受到以下结构的支持：California MICRO, California Discovery, the Swedish Research Council, the Natural Sciences and Engineering Research Council of Canada, a National Science Foundation Graduate Research Fellowship，the RAD Lab sponsors: Google, Microsoft, Oracle, Amazon, Cisco, Cloudera, eBay, Facebook, Fujitsu, HP, Intel, NetApp, SAP, VMware, and Yahoo!
+感谢 Eric J. Friedman, Herve Moulin, John Wilkes，以及匿名评搞人的珍贵的反馈。感谢 Facebook 完成了算法在环境里的追踪。本研究受到以下结构的支持：California MICRO, California Discovery, the Swedish Research Council, the Natural Sciences and Engineering Research Council of Canada, a National Science Foundation Graduate Research Fellowship，the RAD Lab sponsors: Google, Microsoft, Oracle, Amazon, Cisco, Cloudera, eBay, Facebook, Fujitsu, HP, Intel, NetApp, SAP, VMware, and Yahoo!
 
 ## 参考
 
